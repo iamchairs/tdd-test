@@ -1,0 +1,24 @@
+{
+  "name": "karma-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "dependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamchairs/tdd-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamchairs/tdd-test/issues"
+  },
+  "homepage": "https://github.com/iamchairs/tdd-test#readme"
+}
